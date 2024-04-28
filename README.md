@@ -16,6 +16,3 @@ Este programa permite a leitura de uma lista de artistas/bandas de um arquivo, a
    ```
    ./programa
    ```
-
-## Possíveis Erros
-- **Erro ao abrir o arquivo:** Isso pode ocorrer se o arquivo de entrada `artistas.txt` não estiver presente no diretório do programa ou se o programa não tiver permissão para acessá-lo. Certifique-se de que o arquivo existe e as permissões estão corretas.
